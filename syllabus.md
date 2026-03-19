@@ -24,10 +24,6 @@ title: Syllabus
         <td>Tuesday, Thursday; 3:30 - 4:50 PM EST</td>
       </tr>
       <tr>
-        <td><strong>Location:</strong></td>
-        <td>HOA, Room 160</td>
-      </tr>
-      <tr>
         <td><strong>Instructors:</strong></td>
         <td>Prof. Eric H. Nyberg</td>
       </tr>
