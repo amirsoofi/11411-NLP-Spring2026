@@ -7,7 +7,7 @@ title: Resources
   <h1>Course Resources</h1>
 </div>
 
-<div class="card">
+<!-- <div class="card">
     <h2>Course Calendar</h2>
     <p>View all course events, deadlines, office hours, and lecture times in the calendar below.</p>
     
@@ -45,7 +45,7 @@ title: Resources
       <h3>Additional Support</h3>
       <p>For private concerns or accommodations, please email the instructors directly.</p>
     </div>
-  </div>
+  </div> -->
   
 
 <div class="resources-content">
@@ -55,8 +55,8 @@ title: Resources
     
     <h3>Course Platforms</h3>
     <ul>
-      <li><a href="https://canvas.cmu.edu/courses/47358" target="_blank">Canvas</a> - For assignment submissions and grades</li>
-      <li><a href="https://piazza.com/class/me7idw5ke0p1jw" target="_blank">Piazza</a> - For course discussions and announcements</li>
+      <li><a href="https://canvas.cmu.edu/courses/51243" target="_blank">Canvas</a> - For assignment submissions and grades</li>
+      <li><a href="https://piazza.com/class/mk701eycbb42u7" target="_blank">Piazza</a> - For course discussions and announcements</li>
       <li><a href="#" target="_blank">Panopto</a> - For class recordings</li>
       <li><a href="https://forms.gle/LTzHzqbi7uihpwAL6" target="_blank">Video Access Request Form</a> - To request for access to any of the class recordings, fill out this form</li>
     </ul>

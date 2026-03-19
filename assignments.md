@@ -13,8 +13,8 @@ title: Assignments
   <div class="card assignment-card">
     <h2>Assignment 1: Language ID</h2>
     <div class="assignment-meta">
-      <p><strong>Released:</strong> September 11, 2025</p>      
-      <p><strong>Due:</strong> October 2, 2025 at 11:59 PM</p>  
+      <p><strong>Released:</strong> January 29, 2026</p>      
+      <p><strong>Due:</strong> February 19, 2026 at 11:59 PM</p>  
       <p><strong>Weight:</strong> 10% of final grade</p>
     </div>
         
@@ -49,19 +49,14 @@ title: Assignments
         <li>Generate and analyze a confusion matrix for model evaluation</li>
         <li>Identify and display the most predictive features for each language</li>
       </ol>
-
-      <div class="assignment-resources">
-        <!-- <a href="#" class="btn">Coming Soon</a> -->
-        <a href="https://canvas.cmu.edu/courses/47358/assignments/890004" class="btn">Canvas</a>
-      </div>
     </div>
   </div>
   
   <div class="card assignment-card">
     <h2>Assignment 2: Language Modeling</h2>
     <div class="assignment-meta">
-      <p><strong>Released:</strong> October 2, 2025</p>   
-      <p><strong>Due:</strong> October 23, 2025 at 11:59 PM</p>
+      <p><strong>Released:</strong> February 19, 2026</p>   
+      <p><strong>Due:</strong> March 12, 2026 at 11:59 PM</p>
       <p><strong>Weight:</strong> 10% of final grade</p>
     </div>
     
@@ -80,58 +75,48 @@ title: Assignments
       <h3>Tasks</h3>
       <ol>
         <li>Implement n-gram language models with Laplace smoothing</li>
-        <li>Build RNN-based language models</li>
+        <li>Build Transformer-based language models</li>
         <li>Evaluate perplexity across different model architectures</li>
         <li>Analyze model performance on various text domains</li>
       </ol>
-
-      <div class="assignment-resources">
-        <a href="#" class="btn">Coming Soon</a>
-      </div>
     </div>
   </div>
   
   <div class="card assignment-card">
-    <h2>Assignment 3: TBA</h2>
+    <h2>Assignment 3: Neural Machine Translation</h2>
     <div class="assignment-meta">
-      <p><strong>Released:</strong> October 23, 2025</p>     
-      <p><strong>Due:</strong> November 13, 2025 at 11:59 PM</p>
+      <p><strong>Released:</strong> March 12, 2026</p>     
+      <p><strong>Due:</strong> April 02, 2026 at 11:59 PM</p>
       <p><strong>Weight:</strong> 10% of final grade</p>
     </div>
     
     <div class="assignment-description">
       <h3>Status</h3>
-      <p>Assignment details are currently being finalized for the Fall 2025 offering. Check back soon for updates!</p>
-      
-      <div class="assignment-resources">
-        <a href="#" class="btn">Coming Soon</a>
-      </div>
+      <p>In this homework, you will be experimenting with Neural Machine Translation (NMT) using sequence-to-sequence transformer models. You will fine-tune pre-trained MarianMT models to translate English sentences into French, compare model architectures, and tune hyperparameters to improve translation quality. You will also perform an in-depth error analysis on your model's outputs using BLEU score as your evaluation metric.</p>
+
+      <p>In this assignment, you will be fine-tuning pre-trained translation models using two different MarianMT configurations.</p>
     </div>
   </div>
   
   <div class="card assignment-card">
     <h2>Assignment 4: TBA</h2>
     <div class="assignment-meta">
-      <p><strong>Released:</strong> November 13, 2025</p>     
-      <p><strong>Due:</strong> December 4, 2025 at 11:59 PM</p>
+      <p><strong>Released:</strong> April 02, 2026</p>     
+      <p><strong>Due:</strong> April 23, 2026 at 11:59 PM</p>
       <p><strong>Weight:</strong> 20% of final grade</p>
     </div>
     
     <div class="assignment-description">
       <h3>Status</h3>
       <p>Assignment details will be announced later in the semester.</p>
-      
-      <div class="assignment-resources">
-        <a href="#" class="btn">Coming Soon</a>
-      </div>
     </div>
   </div>
   
   <div class="card assignment-card">
     <h2>Exams</h2>
     <div class="assignment-meta">
-      <p><strong>Midterm:</strong> October 9, 2025 (in-class)</p>
-      <p><strong>Final:</strong> TBD (during finals week)</p>
+      <p><strong>Midterm:</strong> February 26, 2026 (in-class)</p>
+      <p><strong>Final:</strong> May 04, 2026 1 PM - 4 PM Eastern (in-person) </p>
       <p><strong>Weight:</strong> 25% each (50% total)</p>
     </div>
     

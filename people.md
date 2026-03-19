@@ -15,45 +15,52 @@ title: People
       <p class="staff-info">Professor</p>
       <p class="staff-info">GHC 5719</p>
       <a href="mailto:en09@andrew.cmu.edu" class="staff-email">en09@andrew.cmu.edu</a>
-      <p class="staff-info">Office Hours: Tue/Thu 1–2pm in GHC 5719</p>
+      <p class="staff-info">Office Hours: Tue/Thu 2:00 PM – 3:00 PM in GHC 5719</p>
     </div>
   </div>
   
   <h2>Teaching Assistants</h2>
   <div class="staff-container">
     <div class="staff-card">
-      <img src="{{ '/assets/images/gayathri.JPG' | relative_url }}" alt="Gayathri GL" class="circle">
-      <p class="staff-name">Gayathri Ganesh Lakshmy</p>
-      <p class="staff-info">MIIS</p>
-      <a href="mailto:gganeshl@andrew.cmu.edu" class="staff-email">gganeshl@andrew.cmu.edu</a>
+      <img src="{{ '/assets/images/maitri.jpg' | relative_url }}" alt="Maitri Gada" class="circle">
+      <p class="staff-name">Maitri Gada</p>
+      <!-- <p class="staff-info">MIIS</p> -->
+      <!-- <a href="mailto:@andrew.cmu.edu" class="staff-email">@andrew.cmu.edu</a> -->
     </div>
     
     <div class="staff-card">
-      <img src="{{ '/assets/images/dhruv.png' | relative_url }}" alt="Dhruv Gupta" class="circle">
-      <p class="staff-name">Dhruv Gupta</p>
-      <p class="staff-info">MIIS</p>
-      <a href="mailto:dhruvgu2@andrew.cmu.edu" class="staff-email">dhruvgu2@andrew.cmu.edu</a>
+      <img src="{{ '/assets/images/prachi.jpg' | relative_url }}" alt="Prachi Goyal" class="circle">
+      <p class="staff-name">Prachi Goyal</p>
+      <!-- <p class="staff-info">MIIS</p> -->
+      <!-- <a href="mailto:@andrew.cmu.edu" class="staff-email">@andrew.cmu.edu</a> -->
     </div>
     
     <div class="staff-card">
-      <img src="{{ '/assets/images/manav.jpg' | relative_url }}" alt="Manav Kapadnis" class="circle">
-      <p class="staff-name">Manav Kapadnis</p>
-      <p class="staff-info">MIIS</p>
-      <a href="mailto:mkapadnis@andrew.cmu.edu" class="staff-email">mkapadnis@andrew.cmu.edu</a>
+      <img src="{{ '/assets/images/saksham.png' | relative_url }}" alt="Saksham Gupta" class="circle">
+      <p class="staff-name">Saksham Gupta</p>
+      <!-- <p class="staff-info">MIIS</p> -->
+      <!-- <a href="mailto:@andrew.cmu.edu" class="staff-email">@andrew.cmu.edu</a> -->
     </div>
     
     <div class="staff-card">
-      <img src="{{ '/assets/images/chin-jou.jpg' | relative_url }}" alt="Chin-Jou Li" class="circle">
-      <p class="staff-name">Chin-Jou Li</p>
-      <p class="staff-info">MIIS</p>
-      <a href="mailto:chinjoul@andrew.cmu.edu" class="staff-email">chinjoul@andrew.cmu.edu</a>
+      <img src="{{ '/assets/images/faruq.jpg' | relative_url }}" alt="Faruq (Umar) Hammed" class="circle">
+      <p class="staff-name">Faruq (Umar) Hammed</p>
+      <!-- <p class="staff-info">MIIS</p> -->
+      <!-- <a href="mailto:@andrew.cmu.edu" class="staff-email">@andrew.cmu.edu</a> -->
     </div>
     
     <div class="staff-card">
-      <img src="{{ '/assets/images/pauline.jpeg' | relative_url }}" alt="Pauline Nyaboe" class="circle">
-      <p class="staff-name">Pauline Nyaboe</p>
-      <p class="staff-info">MSEAI</p>
-      <a href="mailto:pnyaboe@andrew.cmu.edu" class="staff-email">pnyaboe@andrew.cmu.edu</a>
+      <img src="{{ '/assets/images/amir.jpg' | relative_url }}" alt="Amir Soofi" class="circle">
+      <p class="staff-name">Amir Soofi</p>
+      <!-- <p class="staff-info">LTI</p> -->
+      <!-- <a href="mailto:@andrew.cmu.edu" class="staff-email">@andrew.cmu.edu</a> -->
+    </div>
+    
+    <div class="staff-card">
+      <img src="{{ '/assets/images/mariam.png' | relative_url }}" alt="Mariam Suleman" class="circle">
+      <p class="staff-name">Mariam Suleman</p>
+      <!-- <p class="staff-info">MIIS</p> -->
+      <!-- <a href="mailto:@andrew.cmu.edu" class="staff-email">@andrew.cmu.edu</a> -->
     </div>
   </div>
 </div>

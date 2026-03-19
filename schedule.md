@@ -25,181 +25,181 @@ title: Schedule
       <!-- Week 1 -->
       <tr>
         <td rowspan="2">1</td>
-        <td>Aug 26</td>
-        <td>Intro: NLP Landscape and History, Course Objectives</td>
+        <td>Jan 13</td>
+        <td>NLP Landscape and History, Course Objectives</td>
         <td></td>
         <td></td>
       </tr>
       <tr class="alt-row">
-        <td>Aug 28</td>
-        <td>Intro: Representation in NLP</td>
+        <td>Jan 15</td>
+        <td>Ch. 2: Words and Tokens</td>
         <td></td>
         <td></td>
       </tr>
       <!-- Week 2 -->
       <tr>
         <td rowspan="2">2</td>
-        <td>Sep 2</td>
-        <td>Probability Theory and Language Modeling</td>
+        <td>Jan 20</td>
+        <td>Ch. 3: N-Gram Language Models</td>
         <td></td>
         <td></td>
       </tr>
       <tr class="alt-row">
-        <td>Sep 4</td>
-        <td>N-Gram Language Models</td>
+        <td>Jan 22</td>
+        <td>Appendix B: Naive Bayes and Text Classification</td>
         <td></td>
         <td></td>
       </tr>
       <!-- Week 3 -->
       <tr>
         <td rowspan="2">3</td>
-        <td>Sep 9</td>
-        <td>Naive Bayes and Document Classification</td>
+        <td>Jan 27</td>
+        <td>Ch. 4: Logistic Regression and Text Classification</td>
         <td></td>
         <td></td>
       </tr>
       <tr class="alt-row">
-        <td>Sep 11</td>
-        <td>Logistic Regression, Softmax Regression</td>
-        <td>HW1: Language ID</td>
+        <td>Jan 29</td>
+        <td>Ch. 5: Embeddings</td>
+        <td>HW1</td>
         <td></td>
       </tr>
       <!-- Week 4 -->
       <tr>
         <td rowspan="2">4</td>
-        <td>Sep 16</td>
-        <td>Word Embeddings and Distributional Semantics</td>
+        <td>Feb 03</td>
+        <td>Ch. 6: Neural Networks</td>
         <td></td>
         <td></td>
       </tr>
       <tr class="alt-row">
-        <td>Sep 18</td>
-        <td>Feed-Forward Neural Networks</td>
+        <td>Feb 05</td>
+        <td>Ch. 7: Large Language Models</td>
         <td></td>
         <td></td>
       </tr>
       <!-- Week 5 -->
       <tr>
         <td rowspan="2">5</td>
-        <td>Sep 23</td>
-        <td>Modeling Sequences: RNNs and NER, Encoder-Decoder, Beam Search</td>
+        <td>Feb 10</td>
+        <td>Ch. 8: Transformers</td>
         <td></td>
         <td></td>
       </tr>
       <tr class="alt-row">
-        <td>Sep 25</td>
-        <td>Self-Attention and Transformers</td>
+        <td>Feb 12</td>
+        <td>Ch. 9: Post-Training</td>
         <td></td>
         <td></td>
       </tr>
       <!-- Week 6 -->
       <tr>
         <td rowspan="2">6</td>
-        <td>Sep 30</td>
-        <td>LLMs I: Pretraining, Encoder-only, Finetuning</td>
+        <td>Feb 17</td>
+        <td>Ch. 10: Masked Language Models</td>
         <td></td>
         <td></td>
       </tr>
       <tr class="alt-row">
-        <td>Oct 2</td>
-        <td>LLMs II: Encoder-Decoder, Decoder-Only, ICL</td>
-        <td>HW2: Language Modeling</td>
+        <td>Feb 19</td>
+        <td>Ch. 11: Information Retrieval and Retrieval-Augmented Generation</td>
+        <td>HW2</td>
         <td>HW1</td>
       </tr>
       <!-- Week 7 -->
       <tr>
         <td rowspan="2">7</td>
-        <td>Oct 7</td>
-        <td>Review: In-class review for Midterm Exam</td>
+        <td>Feb 24</td>
+        <td>In-class review for Midterm Exam</td>
         <td></td>
         <td></td>
       </tr>
       <tr class="alt-row">
-        <td>Oct 9</td>
-        <td>Midterm Exam</td>
+        <td>Feb 26</td>
+        <td>In-class Midterm Exam</td>
         <td></td>
         <td></td>
       </tr>
-      <!-- Week 8 - Fall Break -->
+      <!-- Week 8 - Spring Break -->
       <tr class="break-row">
         <td rowspan="2">8</td>
-        <td>Oct 14</td>
-        <td>Fall Break - No Class</td>
+        <td>Mar 03</td>
+        <td>Spring Break - No Class</td>
         <td></td>
         <td></td>
       </tr>
       <tr class="break-row">
-        <td>Oct 16</td>
-        <td>Fall Break - No Class</td>
+        <td>Mar 05</td>
+        <td>Spring Break - No Class</td>
         <td></td>
         <td></td>
       </tr>
       <!-- Week 9 -->
       <tr>
         <td rowspan="2">9</td>
-        <td>Oct 21</td>
-        <td>LLMs III: RLHF, DPO, Guardrails</td>
+        <td>Mar 10</td>
+        <td>Question Answering Case Study: TeleQnA</td>
         <td></td>
         <td></td>
       </tr>
       <tr class="alt-row">
-        <td>Oct 23</td>
-        <td>Machine Translation, Multilingual NLP</td>
-        <td>HW3: Clickbait Detection</td>
+        <td>Mar 12</td>
+        <td>In-Class Exercise: Question Answering Challenge</td>
+        <td>HW3</td>
         <td>HW2</td>
       </tr>
       <!-- Week 10 -->
       <tr>
         <td rowspan="2">10</td>
-        <td>Oct 28</td>
-        <td>History of QA (including NER, IR, scoring)</td>
+        <td>Mar 17</td>
+        <td>Ch. 12: Machine Translation</td>
         <td></td>
         <td></td>
       </tr>
       <tr class="alt-row">
-        <td>Oct 30</td>
-        <td>Modern QA (LLM, prompting, RAG, etc.)</td>
+        <td>Mar 19</td>
+        <td>Ch. 13: RNNs and LSTMs</td>
         <td></td>
         <td></td>
       </tr>
       <!-- Week 11 -->
       <tr>
         <td rowspan="2">11</td>
-        <td>Nov 4</td>
-        <td>Democracy Day - No Class</td>
+        <td>Mar 24</td>
+        <td>Ch. 17: Sequence Labelling</td>
         <td></td>
         <td></td>
       </tr>
       <tr class="alt-row">
-        <td>Nov 6</td>
-        <td>In-Class Exercise: Question Answering Challenge</td>
+        <td>Mar 26</td>
+        <td>Ch. 18: Syntax and Parsing</td>
         <td></td>
         <td></td>
       </tr>
       <!-- Week 12 -->
       <tr>
         <td rowspan="2">12</td>
-        <td>Nov 11</td>
-        <td>Syntax and Parsing</td>
+        <td>Mar 31</td>
+        <td>Ch. 20: Information Extraction and Coreference</td>
         <td></td>
         <td></td>
       </tr>
       <tr class="alt-row">
-        <td>Nov 13</td>
-        <td>Information Extraction and Coreference</td>
-        <td>HW4: TBD</td>
+        <td>Apr 2</td>
+        <td>Ch. 21: Semantic Role Labelling </td>
+        <td>HW4</td>
         <td>HW3</td>
       </tr>
       <!-- Week 13 -->
       <tr>
         <td rowspan="2">13</td>
-        <td>Nov 18</td>
-        <td>Semantics and Reasoning</td>
+        <td>Apr 07</td>
+        <td>Appendix H: Semantics and Reasoning</td>
         <td></td>
         <td></td>
       </tr>
       <tr class="alt-row">
-        <td>Nov 20</td>
+        <td>Apr 09</td>
         <td>Natural Language Inference</td>
         <td></td>
         <td></td>
@@ -207,28 +207,28 @@ title: Schedule
       <!-- Week 14 -->
       <tr>
         <td rowspan="2">14</td>
-        <td>Nov 25</td>
+        <td>Apr 14</td>
         <td>Ethics and NLP</td>
         <td></td>
         <td></td>
       </tr>
-      <tr class="break-row">
-        <td>Nov 27</td>
-        <td>Thanksgiving Break - No Class</td>
+      <tr class="alt-row">
+        <td>Apr 16</td>
+        <td>In-Class Exercise: LLM Toxicity Challenge</td>
         <td></td>
         <td></td>
       </tr>
       <!-- Week 15 -->
       <tr>
         <td rowspan="2">15</td>
-        <td>Dec 2</td>
-        <td>In-Class Exercise: LLM Toxicity Challenge</td>
+        <td>Apr 21</td>
+        <td>TBA</td>
         <td></td>
         <td></td>
       </tr>
       <tr class="alt-row">
-        <td>Dec 4</td>
-        <td>Final Review: In-class review for Final Exam</td>
+        <td>Apr 23</td>
+        <td>In-class review for Final Exam</td>
         <td></td>
         <td>HW4</td>
       </tr>

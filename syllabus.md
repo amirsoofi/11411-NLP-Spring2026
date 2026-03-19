@@ -17,11 +17,11 @@ title: Syllabus
       </tr>
       <tr>
         <td><strong>Semester:</strong></td>
-        <td>Fall 2025</td>
+        <td>Spring 2026</td>
       </tr>
       <tr>
         <td><strong>Class Times:</strong></td>
-        <td>Tuesday, Thursday; 2:00 - 3:20 PM EST</td>
+        <td>Tuesday, Thursday; 3:30 - 4:50 PM EST</td>
       </tr>
       <tr>
         <td><strong>Location:</strong></td>
@@ -66,6 +66,10 @@ title: Syllabus
           <td>10.00%</td>
         </tr>
         <tr>
+          <td>Midterm Exam</td>
+          <td>25.00%</td>
+        </tr>
+        <tr>
           <td>HW2</td>
           <td>10.00%</td>
         </tr>
@@ -78,10 +82,6 @@ title: Syllabus
           <td>20.00%</td>
         </tr>
         <tr>
-          <td>Midterm Exam</td>
-          <td>25.00%</td>
-        </tr>
-        <tr>
           <td>Final Exam</td>
           <td>25.00%</td>
         </tr>
@@ -91,8 +91,13 @@ title: Syllabus
         </tr>
       </tbody>
     </table>
-    
+  </div>
+
+  <div class="card">
     <h3>Grading Scale</h3>
+    <p>For the purpose of assigning letter grades, your grade point average is rounded up to the next integer if the decimal
+portion of your score is .5 or greater, and rounded down to the nearest integer if it is less than .5. For example, 89.5%
+is rounded up to 90% (A-), while 89.4% is rounded down to 89% (B+).</p>
     <table>
       <thead>
         <tr>
@@ -119,16 +124,18 @@ title: Syllabus
   </div>
 
   <div class="card">
-    <h2>Homework Assignments</h2>
-    <p>All homework assignments will be submitted via <a href="https://www.gradescope.com/courses/946367">Gradescope</a>.</p>
-    
+    <h3>Homework Assignments</h3>
+    <p>All homework assignments will be submitted via <a href="https://www.gradescope.com/courses/1238349">Gradescope</a>.</p>
+  </div>
+
+  <div class="card">
     <h3>Exams</h3>
     <p>There will be two in-person, written exams (midterm and final). Both will consist of a small number of multipart questions. The midterm will consist of 3–4 questions (each with 3–5 parts) and the final will consist of 4–5 questions of similar length.</p>
     <p>The questions will be designed to test conceptual understanding (not recall of facts). They are open book and open note but are non-collaborative (you may not consult with one another or any other sentient being including LaMDA).</p>
   </div>
 
   <div class="card">
-    <h2>Course Policies</h2>
+    <h2>Policies</h2>
     
     <h3>Late Work Policy</h3>
     <p>Each student is allocated <strong>five late days</strong> to use as they need throughout the semester, sometimes called "grace days." If a student hands in a homework assignment two days late, this will use two of their late days (leaving three days if no late days had been used previously).</p>
@@ -145,13 +152,16 @@ title: Syllabus
     
     <h3>Academic Integrity</h3>
     <p>Any cheating or plagiarism will be dealt with according to the University policies on academic integrity. In general, high-level discussion of tools, concepts, frameworks, and formalisms is acceptable collaboration and is encouraged. Sharing specific aspects of solutions or results with other students, or consulting work from previous semesters or other universities, is considered cheating.</p>
-    <p><strong>Submitting work produced by generative AI systems like ChatGPT or GitHub Copilot will be considered silly</strong>, for reasons we will explore in this course.</p>
+    <p><strong>Submitting work produced by generative AI systems like ChatGPT or GitHub Copilot will be considered inappropriate, for reasons we will explore in this course.</strong></p>
+
+    <h3>Absence due to Illness and Medical Conditions</h3>
+    <p>If you cannot attend class or take an exam due to a medical condition or illness, please contact <a href="https://www.cmu.edu/student-affairs/index.html">Student Affairs</a> and/or <a href="https://www.cmu.edu/health-services/about-us/index.html">University Health Services</as>. The University expects faculty to work with <a href="https://www.cmu.edu/student-affairs/resources/index.html">Student Support Resources</a> when students are unable to attend class or exams due to illness or a medical condition. <i>Please do not communicate information about your illness or medical condition to the instructor(s) directly.</i></p>
     
     <h3>Disability</h3>
     <p>Many people have disabilities, including members of our own families. We see disabilities as deficits not in disabled people but in the institutions and societies that are structured such that they are disadvantaged. We wish to do our part to overcome this disparate treatment.</p>
     <p>If you have a disability (visible or invisible), please let us know as soon as possible (you don't need to tell us the nature of the disability) and work via the Office of Disability Resources to develop a set of accommodations which we can then approve. These may include extra time on exams, a quiet place in which to take an exam, alt text on all images, documents that work for people with differences in vision, sign language interpretation, captioning, etc.</p>
     
-    <h3>Diversity, Equity, and Inclusion</h3>
+    <h3>Inclusive Excellence</h3>
     <p>Throughout human history, some people have been denied the rights and opportunities available to others on the basis of their race, gender, economic class, caste, ancestry, language community, age, religion, beliefs, political affiliation, and abilities (visible and invisible). A single course cannot undo the injustices of history, but we—as a teaching staff—are committed to fighting inequity and promoting inclusion. We encourage you to join us.</p>
     <p>If you feel that you, or those around you, have been treated unfairly based upon their identity (or perceived identity) by us, by other members of the teaching staff, or by other students in the course, we ask that you share your experience with the Center for Student Diversity and Inclusion (csdi@andrew.cmu.edu, (412) 268-2150) or by using the anonymous Report-It reporting platform (reportit.net, username: tartans, password: plaid).</p>
   </div>
